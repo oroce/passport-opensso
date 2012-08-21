@@ -1,0 +1,26 @@
+{
+  "name": "passport-opensso",
+  "version": "0.0.1",
+  "description": "opensso plugin for passportjs",
+  "main": "./lib/passport-opensso",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oroce/passport-opensso.git"
+  },
+  "dependencies": {
+    "passport": "",
+    "pkginfo": ""
+  },
+  "keywords": [
+    "passport",
+    "opensso",
+    "sun",
+    "auth",
+    "authentication"
+  ],
+  "author": "oroce",
+  "license": "MIT"
+}
