@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "passport": "",
-    "pkginfo": ""
+    "pkginfo": "",
+    "tough-cookie": ""
   },
   "keywords": [
     "passport",
